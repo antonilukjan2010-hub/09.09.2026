@@ -98,6 +98,14 @@ text-transform: uppercase;
     align-items: center;
     display: flex;
 }
+
+.div2 {
+    display: flex;
+    align-items: center;
+    align-items: center;
+    width: 100vw;
+}
+
 @media(max-width:1020px){
     .accordion-button {
         font-size: 1.4rem;
